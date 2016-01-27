@@ -1,0 +1,1 @@
+Content moved  to [GitHub ScalaFX Wiki](https://github.com/scalafx/scalafx/wiki/ScalaFX-8-Development).
